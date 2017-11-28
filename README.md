@@ -1,2 +1,2 @@
 # generator-simple-hapi-and-nats-api
-Simple generator for creating ReactApp
+Simple generator for creating Api
