@@ -1,0 +1,20 @@
+{
+  "name": "generator-simple-hapi-and-nats-api",
+  "version": "0.1.0",
+  "description": "Simple generator for creating Api (Hapi, Docker, Nats)",
+  "repository": "git://github.com/gleip/SimpleHapiAndNatsApi",
+  "files": [
+    "app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "gLeip",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^2.0.0"
+  }
+}
