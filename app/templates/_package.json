@@ -18,8 +18,8 @@
     "@types/pino": "^4.7.0"
   },
   "dependencies": {
-    "hapi": "^17.1.1",
-    "hapi-auth-bearer-token": "^6.0.1",
+    "hapi": "^16.6.0",
+    "hapi-auth-bearer-token": "^5.1.0",
     "inert": "^4.2.1",
     "joi": "^11.0.3",
     "nats": "^0.7.24",

@@ -1,6 +1,6 @@
 {
   "name": "generator-simple-hapi-and-nats-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple generator for creating Api (Hapi, Docker, Nats)",
   "repository": "git://github.com/gleip/SimpleHapiAndNatsApi",
   "files": [
